@@ -7,7 +7,6 @@ public abstract class Lesson {
 	public Lesson() {}
 
 	public Lesson(String title) {
-		super();
 		this.title = title;
 	}
 		
